@@ -1,0 +1,1 @@
+//USAGE: /bgcheck <new/update/void> <(new)discord username> <(new)roblox username> <(update)bgchk_id> <(update)bg_status> <(update)reasn> <(void)bgchk_id> <(void)reason>

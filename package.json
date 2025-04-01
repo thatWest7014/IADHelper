@@ -1,6 +1,6 @@
 {
   "name": "kiadhelper",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "description": "Tool for the KIAD to effectively manage tickets and operations.",
   "license": "ISC",
   "author": {
@@ -11,7 +11,7 @@
   "type": "commonjs",
   "main": "src/index.js",
   "scripts": {
-    "start": "",
+    "start": "node --no-warnings src/deploy-cmds.js && node --no-warnings src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
@@ -34,7 +34,6 @@
     "ms": "^2.1.3",
     "noblox.js": "^6.0.2",
     "node-cron": "^3.0.3",
-    "stripe": "^17.5.0",
     "ws": "^8.18.0"
   }
 }
