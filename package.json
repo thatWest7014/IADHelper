@@ -1,7 +1,7 @@
 {
-  "name": "kiadhelper",
-  "version": "1.0.5",
-  "description": "Tool for the KIAD to effectively manage tickets and operations.",
+  "name": "internalaffairshelper",
+  "version": "1.1.0a",
+  "description": "A Discord bot that helps Internal Affairs departments effectively manage specialized servers or channels.",
   "license": "ISC",
   "author": {
     "name": "thatWest7014",

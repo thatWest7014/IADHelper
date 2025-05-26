@@ -1,3 +1,15 @@
 {
-    "useremotedb":true   
+    "useremotedb":true,
+    "channels":{
+        "caseupdates":"1277077389691584522",
+        "gamebaninfo":"1277077984192368731",
+        "raidrbaninfo":"1277078262308147341",
+        "discbaninfo":"1277078058226159626",
+        "warnapplinfo":"1277078126467219456",
+        "unfairmdinfo":"1277078351273660426",
+        "reportsinfo":"1277078405455548426",
+        "blklistinfo":"1277315936306729053",
+        "anonsubinfo":"1328536751681175552",
+        "cheatrptinfo":"1337628877433999382"
+    }
 }

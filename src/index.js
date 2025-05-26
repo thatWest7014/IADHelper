@@ -303,9 +303,9 @@ webhookClient.send(`
 \u200B
 \`\`\`
 # **${client.user.username} v**${pkg.version}
-## **Description: **${pkg.description}
 ### **Author: **${pkg.author.name}
 ### **License: **${licenseName}
+### **Additional Copyright Terms?: **${fs.existsSync(licensePath)}
 \`\`\`
 \u200B
 \`\`\`
